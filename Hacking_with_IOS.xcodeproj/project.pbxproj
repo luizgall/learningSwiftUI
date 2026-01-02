@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DF8A23332F074C4D00C8D64D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DF8A23322F074C4600C8D64D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		DF8A23242F074C1C00C8D64D /* Hacking_with_IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hacking_with_IOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF8A23322F074C4600C8D64D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		DF8A231B2F074C1C00C8D64D = {
 			isa = PBXGroup;
 			children = (
+				DF8A23322F074C4600C8D64D /* README.md */,
 				DF8A23262F074C1C00C8D64D /* Hacking_with_IOS */,
 				DF8A23252F074C1C00C8D64D /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF8A23332F074C4D00C8D64D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
